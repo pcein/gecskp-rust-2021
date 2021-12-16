@@ -1,0 +1,9 @@
+1. What is the current stable version of Rust?
+
+2. Rust is a dynamically typed language: yes or no?
+
+3. A Java security issue has taken the world by storm this
+   week; what is it called?
+
+4. Rust achieves memory safety by employing garbage collection.
+   True or False?
